@@ -1,0 +1,6 @@
+{
+  "name": "VifeGas - Control de Venta de Gas",
+  "description": "Sistema de gestión de inventario y ventas en tiempo real para negocio de balones de gas de 10 kg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
